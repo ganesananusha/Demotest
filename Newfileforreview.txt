@@ -1,0 +1,15 @@
+19/11/08-07:28:20 | 10.50.232.85 | M1.2 | the disabled value is None
+19/11/08-07:28:20 | 10.50.232.85 | M1.2 | option.text is Disabled
+19/11/08-07:28:20 | 10.50.232.85 | M1.2 | option.text is Passthrough
+19/11/08-07:28:20 | 10.50.232.85 | M1.2 | option.text is Transcode
+19/11/08-07:28:23 | 10.50.232.85 | M1.2 | the disabled value is None
+19/11/08-07:28:23 | 10.50.232.85 | M1.2 | option.text is MPEG-L2 (2.0)
+19/11/08-07:28:23 | 10.50.232.85 | M1.2 | option.text is Dolby Digital (2.0)
+19/11/08-07:28:25 | 10.50.232.85 | M1.2 | the disabled value is true
+19/11/08-07:28:25 | 10.50.232.85 | M1.2 | option.text is MPEG-L2
+19/11/08-07:28:25 | 10.50.232.85 | M1.2 | option.text is Dolby Digital
+19/11/08-07:28:25 | 10.50.232.85 | M1.2 | option.text is Dolby Digital Plus
+19/11/08-07:28:25 | 10.50.232.85 | M1.2 | option.text is Dolby AC-4
+
+
+test stesss
